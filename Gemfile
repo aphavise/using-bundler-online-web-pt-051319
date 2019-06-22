@@ -9,3 +9,4 @@ group :development do
 gem "pry"
 end
 
+# '"]awesome_print['"], ?(git:|:git ?=>) ?['"]git@github\.com:awesome\-print\/awesome_print\.git['"]/).not_to eq(nil)
